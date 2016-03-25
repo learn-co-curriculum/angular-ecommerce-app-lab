@@ -17,3 +17,8 @@ This will use everything we've learnt so far!
 - The product list should allow the user to click through to the product's full info page
 - Use services to manage the cart - a user should be able to add items to their cart from any page (it should also update the cart on the backend)
 - Bonus: allow pagination on the product page
+
+There should be an admin panel to add products to the system
+- The products should also be removeable/editable
+- Data should be validated before submission
+- Categories should be able to be added/removed/edited
