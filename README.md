@@ -16,7 +16,7 @@ This will use everything we've learnt so far!
 - The cart page should allow the user to remove and change quantities
 - The product list should allow the user to click through to the product's full info page
 - Use services to manage the cart - a user should be able to add items to their cart from any page (it should also update the cart on the backend)
-- There's no need for a checkout page - the cart enough!
+- There's no need for a checkout page/feature - the cart feature will be enough for now!
 - Bonus: allow pagination on the product page
 
 There should be an admin panel to add products to the system
